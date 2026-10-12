@@ -2,7 +2,7 @@
 
 A teaching package for modelling exoplanet transits and building detection
 pipelines. The repository contains the course example code, a runnable CLI,
-and Sphinx documentatio.
+and Sphinx documentation.
 
 Documentation: <https://tiziano1590.github.io/comp_astro_26/>.
 
